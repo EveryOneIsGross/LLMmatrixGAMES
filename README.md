@@ -2,6 +2,8 @@
 
 ![image](https://github.com/user-attachments/assets/5fff21aa-1e7c-491c-a9b8-9fc6d7072bd1)
 
+Inspired by the application of 'serious' games. Matrix Games offer a compelling framework for multi-agent antagonistic knowledge exploration. 
+
 ## Components
 
 1. Two opposing LLMs (LLM-A and LLM-B)
