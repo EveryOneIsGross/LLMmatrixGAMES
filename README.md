@@ -112,3 +112,7 @@ Each LLM (including the Adjudicator) can be in one of three states:
 6. **User Interface**: Develop an intuitive interface for human oversight, allowing for real-time adjustments and analysis.
 
 7. **Extensibility**: Create a modular design that allows for easy addition of new scenarios or modification of existing ones.
+
+## Thoughts
+
+- The resulting dataset can be used to constrain future frameworks without the need for a Adjudicator, creating a baynesian bound to the potential think-space.
